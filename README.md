@@ -4,10 +4,10 @@ RFM analysis is a customer segmentation method that categorizes customers based 
 
 
 ### How RFM Analysis Works
-Score Each Customer: Each customer is assigned a score (often on a scale of 1-5) for each of the three RFM factors, with higher scores indicating higher engagement or value in that category. 
-Combine Scores: These scores are combined into a three-digit number (e.g., 555) representing the customer's RFM profile. 
-Segment Customers: Based on their combined RFM scores, customers are grouped into different segments. 
-Tailor Marketing: These segments then inform targeted marketing campaigns, such as offering discounts to at-risk customers or personalized recommendations to high-value ones. 
+1. Score Each Customer: Each customer is assigned a score (often on a scale of 1-5) for each of the three RFM factors, with higher scores indicating higher engagement or value in that category. 
+2. Combine Scores: These scores are combined into a three-digit number (e.g., 555) representing the customer's RFM profile. 
+3. Segment Customers: Based on their combined RFM scores, customers are grouped into different segments. 
+4. Tailor Marketing: These segments then inform targeted marketing campaigns, such as offering discounts to at-risk customers or personalized recommendations to high-value ones. 
 
 
 ### The Three RFM Factors
