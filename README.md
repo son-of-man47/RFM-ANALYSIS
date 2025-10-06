@@ -27,7 +27,3 @@ This metric identifies the most profitable customers.
 3. Reduced Churn
 4. Increased ROI. 
 5. Data-Driven Decision 
-
-
-
-RFM analysis is a customer segmentation method that uses three metrics: Recency (time since the last purchase), Frequency (how often purchases are made), and Monetary Value (how much is sp
