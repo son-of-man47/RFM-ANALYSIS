@@ -11,22 +11,22 @@ RFM analysis is a customer segmentation method that categorizes customers based 
 
 
 ### The Three RFM Factors
-Recency (R): How recently did the customer make a purchase?
+1. Recency (R): How recently did the customer make a purchase?
 A customer who purchased recently is considered more engaged and is more likely to purchase again. 
 
-Frequency (F): How often does the customer purchase? 
+2. Frequency (F): How often does the customer purchase? 
 Frequent buyers are typically more loyal and engaged with the brand. 
 
-Monetary Value (M): How much has the customer spent? 
+3. Monetary Value (M): How much has the customer spent? 
 This metric identifies the most profitable customers. 
 
 
 ### Benefits of RFM Analysis
-Customer Understanding
-Effective Marketing 
-Reduced Churn
-Increased ROI. 
-Data-Driven Decision 
+1. Customer Understanding
+2. Effective Marketing 
+3. Reduced Churn
+4. Increased ROI. 
+5. Data-Driven Decision 
 
 
 
